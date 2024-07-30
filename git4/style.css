@@ -1,0 +1,74 @@
+body {
+    background-color: azure;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    margin-top: 140px;
+}
+
+.twitter {
+    display: inline-block;
+    width: 20%;
+    border: 2px solid black;
+    border-radius: 3%;
+    text-align: center;
+    padding: 3%;
+    line-height: 30px;
+    margin: 3%;
+}
+
+.fab {
+    color: black;
+    font-size: 60px;
+}
+
+span {
+    font-size: 30px;
+}
+
+.instagram {
+    display: inline-block;
+    width: 20%;
+    border: 2px solid black;
+    border-radius: 3%;
+    text-align: center;
+    padding: 3%;
+    line-height: 30px;
+    margin: 3%;
+}
+
+.youtube {
+    display: inline-block;
+    width: 20%;
+    border: 2px solid black;
+    border-radius: 3%;
+    text-align: center;
+    padding: 3%;
+    line-height: 30px;
+    margin: 3%;
+}
+
+button {
+    background-color: rgb(46, 45, 45);
+    width: 230px;
+    height: 40px;
+    border-radius: 7%;
+    color: white;
+}
+
+.twitter:hover {
+    background-color: rgb(247, 199, 207);
+    color: rgb(255, 255, 255);
+}
+
+.instagram:hover {
+    background-color: rgb(247, 199, 207);
+    color: rgb(255, 255, 255);
+}
+
+.youtube:hover {
+    background-color: rgb(247, 199, 207);
+    color: rgb(255, 255, 255);
+}
